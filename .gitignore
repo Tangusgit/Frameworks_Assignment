@@ -5,3 +5,4 @@ data/metadata.csv
 outputs/
 *.pyc
 .DS_Store
+data/metadata_cleaned.csv
